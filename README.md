@@ -8,7 +8,7 @@ A continuación se muestra una demo en video del servidor en funcionamiento:
 
 ![Imagen](https://github.com/mschvap/McpServer-Domotica/blob/main/imagen/WCTxxY4E8t.png)
 
-https://github.com/mschvap/McpServer-Domotica/blob/main/video/2025-06-28-18-00-22.mov
+https://github.com/mschvap/McpServer-Domotica/blob/main/video/2025-06-28%2018-00-22.mkv
 
 Si ves este README en GitHub, el video se puede descargar o visualizar desde el enlace anterior.
 
