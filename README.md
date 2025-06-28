@@ -6,7 +6,9 @@ Este proyecto es un servidor para controlar dispositivos domóticos utilizando e
 
 A continuación se muestra una demo en video del servidor en funcionamiento:
 
-![Demo](https://github.com/mschvap/McpServer-Domotica/blob/main/video/2025-06-28-18-00-22.mov)
+![Imagen](https://github.com/mschvap/McpServer-Domotica/blob/main/imagen/WCTxxY4E8t.png)
+
+<video controls src="https://github.com/mschvap/McpServer-Domotica/blob/main/video/2025-06-28-18-00-22.mov" title="video/2025-06-28-18-00-22.mov"></video>
 
 Si ves este README en GitHub, el video se puede descargar o visualizar desde el enlace anterior.
 
