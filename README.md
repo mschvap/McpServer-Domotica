@@ -18,7 +18,7 @@ Si ves este README en GitHub, el video se puede descargar o visualizar desde el 
 ## Requisitos
 
 - Node.js 18 o superior
-- Acceso a internet
+- GitHub Copilot
 - Token de API de Blynk Cloud (opcional, si se desea personalizar)
 
 ## Instalación
