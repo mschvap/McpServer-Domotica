@@ -1,6 +1,6 @@
 # MCP Domótica Server
 
-Este proyecto es una solución integral de domótica que implementa tecnologías de Inteligencia Artificial (Copilot), el protocolo Model Context Protocol (MCP), desarrollado por Anthropic y de código abierto, y el control de dispositivos IoT mediante Blynk Cloud. Permite la gestión inteligente y remota de dispositivos del hogar a través de comandos naturales y herramientas automatizadas.
+Este proyecto es una solución integral de domótica que implementa tecnologías de Inteligencia Artificial (Copilot), el protocolo Model Context Protocol (MCP), desarrollado por Anthropic y de código abierto, y el control de dispositivos IoT (Internet of Things) mediante Blynk Cloud. Permite la gestión inteligente y remota de dispositivos del hogar a través de comandos naturales y herramientas automatizadas.
 
 ![Imagen](https://github.com/mschvap/McpServer-Domotica/blob/main/imagen/infraestructura.png)
 
