@@ -82,10 +82,6 @@ Si deseas utilizar tu propio token de Blynk Cloud, edita el archivo `main.ts` y 
 - El servidor utiliza el transporte estándar de entrada/salida (stdio) para la comunicación MCP.
 - Puedes modificar o agregar nuevas herramientas siguiendo el patrón de `registerTool` en `main.ts`.
 
-## Contacto
-
-Para dudas o mejoras, contacta al autor del proyecto.
-
 ## Referencias
 
 Este proyecto tomó como referencia y guía el repositorio oficial del SDK de Model Context Protocol para TypeScript:
